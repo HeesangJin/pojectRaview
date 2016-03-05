@@ -1,6 +1,6 @@
 <?php
    include "raviewTitle.html";
-?>
-<?php
    include "mainBackground.html";
+   include "searchBar.php";
+   //include "recentReview.php"
 ?>

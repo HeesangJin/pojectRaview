@@ -1,0 +1,10 @@
+/*searchBar*/
+#searchBar{margin:0 auto; border-bottom: solid black 1px; height: 60px;}
+
+/*searchInputBox*/
+#inputBox{height: 100%; font-size:40px; float:left;}
+/*searchInputBoxButton*/
+#inputButton{height: 100%;}
+
+/*LocateCenter*/
+.center{margin:0 auto; width: 80%; }

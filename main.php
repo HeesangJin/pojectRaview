@@ -2,5 +2,6 @@
    include "raviewTitle.html";
    include "mainBackground.html";
    include "searchBar.php";
-   //include "recentReview.php"
+   include "recentReview.php";
+   include "footer.php";
 ?>

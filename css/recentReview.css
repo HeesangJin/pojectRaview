@@ -1,0 +1,36 @@
+/*======recentReview WholeBox======*/
+#recentReviewBox{width:100%; min-height: 500px;}
+
+/*recentReviewTitle*/
+#recentReviewTitle{padding: 20px; margin-top: 30px;}
+
+/*===topTwoMenuList===*/
+#topTwoMenuList{height: 200px; margin-bottom: 30px;}
+
+#topOneBox{height: 100%; width:400px; float:left;}
+#topOnePhoto{height: 100%; width:300px; float:left;}
+
+#topTwoBox{height: 100%; width:400px;  float:right;}
+#topTwoPhoto{height: 100%; width:300px; float:left;}
+
+/*sideMenuInfo*/
+#sideMenuTitle{height: 50%; width: 100px;background-color: #F7F7F7; float:right;}
+#sideDate{height: 25%; width: 100px; background-color: #FF4040; float:right;}
+#sideComment{height: 25%; width: 100px; background-color: #008B8B; float:right;}
+
+
+/*===topFiveMenuList===*/
+#topFiveMenuList{height: 250px; margin-bottom: 30px;}
+
+#menuListBox{height: 100%; width:260px; float:left;}
+.rightMargin{ margin-right: 25px;}
+#menuListPhoto{height: 200px; width:260px; float:left;}
+
+/*sideMenuInfo*/
+#botDate{height: 50px; width: 50%; background-color: #FF4040; float:left;}
+#botComment{height: 50px; width: 50%; background-color: #008B8B; float:left;}
+
+
+/*centerText*/
+.centerText{position:absolute; margin:auto; left:0; right:0; top:0; bottom:0; width:100px; height:100px; }
+

@@ -1,0 +1,14 @@
+/*=====restaurantInformation=====*/
+/*restaurantName*/
+#restaurantName{padding-top: 50px; padding-bottom: 25px; border-bottom: solid gray 1px; margin-bottom: 25px;}
+
+/*===informationBox===*/
+#infoBox{width: 100%; height:240px;}
+
+#restaurantImage{width: 415px; height: 240px; }
+#infoText{width: 50%; height: 240px; float:right; background-color: #F7F7F7; }
+#recentComment{width: 100%; height: 100px; background-color: gray;}
+#rocation{width:35%; height: 100%; background-color: #F7F7F7; float:left;}
+#numComment{width:15%; height: 100%; background-color: #008B8B;  float:left;}
+#commentDate{width:10%; height: 100%; background-color: #FF4040; float:left;}
+#commentText{width:40%; height: 100%; background-color: red; float:left;}

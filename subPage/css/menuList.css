@@ -1,0 +1,11 @@
+/*=====menuList=====*/
+#menuList{width: 100%; height: 300px;}
+
+/*menuInfo*/
+#menuBox{width: 200px; height: 300px; float:left;}
+.rightMargin{margin-right: 10px;}
+
+#image{width: 100%; height: 220px; float:}
+#menuName{width: 100%; height: 40px; text-align: center; font-size: 25px;}
+#menuPrice{width: 100%; height: 40px; text-align: center; font-size: 25px;}
+

@@ -1,5 +1,5 @@
 /*searchBar*/
-#searchBar{margin:0 auto; border-bottom: solid black 1px; height: 60px;}
+#searchBar{margin:0 auto; border-bottom: solid black 1px; border-top: solid gray 1px;height: 60px;}
 
 /*searchInputBox*/
 #inputBox{height: 100%; font-size:40px; float:left;}
